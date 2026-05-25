@@ -46,8 +46,9 @@ The following were verified successfully:
 ---------------------------------------------------------------------------------------------------------------------
 
 # Files Included
-Practice Lab for CCNA People (Null) = is an uncompleted topology for you to configure 
-Small Enterprise Lab - CCNA = is my completed configured version of the lab 
+Practice Lab for CCNA People (Null) = is an uncompleted topology for you to configure. 
+
+Small Enterprise Lab - CCNA = is my completed configured version of the lab.
 ---------------------------------------------------------------------------------------------------------
 ## Screenshots
 Contains verification screenshots for:
