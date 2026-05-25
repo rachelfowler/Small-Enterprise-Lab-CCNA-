@@ -46,6 +46,8 @@ The following were verified successfully:
 ---------------------------------------------------------------------------------------------------------------------
 
 # Files Included
+Practice Lab for CCNA People (Null) = is an uncompleted topology for you to configure 
+Small Enterprise Lab - CCNA = is my completed configured version of the lab 
 ---------------------------------------------------------------------------------------------------------
 ## Screenshots
 Contains verification screenshots for:
@@ -55,8 +57,6 @@ Contains verification screenshots for:
 - Successful pings
 - ACL verification
 -----------------------------------------------------------------------------------------------------------------------
-## Packet Tracer File
-Contains the completed lab and topology.
 -----------------------------------------------------------------------------------------------------------------------
 
 # Purpose
